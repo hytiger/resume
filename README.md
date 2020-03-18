@@ -1,5 +1,8 @@
 ## 경력
 
+[교원크리에이티브](http://www.kyowoncreative.com/)
+- 연구원 - 2019/04 ~ 재직중
+
 [Brainboot](http://brainboot.kr/)
 - 팀장 - 2018/04 ~ 2019/02
 
