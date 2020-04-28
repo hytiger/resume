@@ -27,13 +27,13 @@
 * 프로젝트 내용 : 구몬 학습자 전용 E-Book 도서관  애플리케이션,  자기만의 책장, 플랜, 포트폴리오, 독서록 제공
 * 기간 : 2019.05 ~ 2019.11 (6개월)
 * 성과
-- 영업조직 계약자 증가에 기여
+ * 영업조직 계약자 증가에 기여
 * 주요 역할
-- 프로젝트 설계 및 모든 기능 개발
+ * 프로젝트 설계 및 모든 기능 개발
 * 개발 내역
-- 사용 언어 : Java, Kotlin
-- 주요 기술 : Retrofit2, RxAndroid, Dagger2, Realm ,Fabric, MVP Pattern, DataBinding, ContentProvider
-- E-Book을 이용한 도서관 구현, 학습 내용 데이터 전송 및 로컬 저장기능 구현
+ * 사용 언어 : Java, Kotlin
+ * 주요 기술 : Retrofit2, RxAndroid, Dagger2, Realm ,Fabric, MVP Pattern, DataBinding, ContentProvider
+ * E-Book을 이용한 도서관 구현, 학습 내용 데이터 전송 및 로컬 저장기능 구현
 
 
 ### 거래소
@@ -123,12 +123,6 @@
 <img src="images/ui2.png" width="160"/>
 
 ## 개인 프로젝트
-
-### Tripperget (가명)
-여행 가계부
-- 기간: 2019/01/01 ~ 작업중.
-- PlayStore(등록 예정)
-<img src="images/tr1.png" width="160"/>
 
 ### 영동대
 영동대(현 유원대) 버스 시간 제공
