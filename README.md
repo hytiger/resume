@@ -85,9 +85,6 @@
 
 <img src="images/co.png" width="320"/>
 
-  뉴비트 - (https://play.google.com/store/apps/details?id=com.newbitkorea.coin) 외 3개
-
-<img src="images/new1.png" width="160"/> <img src="images/new2.png" width="160"/>
 
 ### 중고나라
 중고나라 서비스
