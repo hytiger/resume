@@ -175,15 +175,4 @@
 
 <img src="images/ui2.png" width="160"/>
 
-## 개인 프로젝트
-
-### 영동대
-영동대(현 유원대) 버스 시간 제공
-- 기간: 2015/11/20 ~
-- 사용기술 : Android, Java
-- PlayStore (https://play.google.com/store/apps/details?id=chic.hy.ydub&hl=ko)
-
-<img src="images/y1.png" width="160"/> <img src="images/y2.png" width="160"/> <img src="images/y3.png" width="160"/>
-
-
 
