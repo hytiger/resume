@@ -1,7 +1,10 @@
 ## 경력
 
+[발란](https://www.balaan.co.kr/)
+- 연구원 - 2021/05 ~ 재직중
+
 [교원크리에이티브](http://www.kyowoncreative.com/)
-- 연구원 - 2019/04 ~ 재직중
+- 연구원 - 2019/04 ~ 2021/05
 
 [Brainboot](http://brainboot.kr/)
 - 팀장 - 2018/04 ~ 2019/02
@@ -20,6 +23,20 @@
 
 
 ## 회사 프로젝트
+
+### 발란
+
+####* 발란 앱 - Android, iOS
+* 프로젝트 내용 : 하이브리드 발란 앱 유지 보수(Android, iOS)
+* 기간 : 2021.05 ~ 현재
+* 성과
+- 앱 모니터링 및 유지보수, Crash Issue 해결
+- 마케팅 툴(Braze, AppsFlyer) 및 Firebase 연동
+* 주요 역할
+- 앱 모니터링 , 사용성 개선 및 웹 이슈 디버깅
+- 사용 언어 : Java, kotlin
+- 주요 기술 : Retrofit2, RxAndroid, hilt, MVC, MVVM Pattern, DataBinding, coroutine, clean architecture
+
 
 ### 교원크리에이티브
 
